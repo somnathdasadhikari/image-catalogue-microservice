@@ -1,4 +1,4 @@
-# Microservices with Spring Boot
+# Gallery Service
 The gallery service calls image service to get a list of all images, or maybe only images created during a specific year.
 The calls from this REST client to the other services can be done using:
 
