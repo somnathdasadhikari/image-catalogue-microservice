@@ -1,4 +1,4 @@
-# Microservices with Spring Boot
+# Gateway service
 It’s a proxy, gateway, an intermediate layer between the users and your services.
 
 Eureka server solved the problem of giving names to services instead of hardcoding their IP addresses.
