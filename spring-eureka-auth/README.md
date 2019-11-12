@@ -1,4 +1,4 @@
-# Microservices with Spring Boot
+# Auth Service
 In the auth service, we:
 
   1> validate the user credentials, and if valid, 
